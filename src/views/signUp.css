@@ -1,0 +1,24 @@
+h1{
+ color: cadetblue;
+ font-family: 'Times New Roman', Times, serif;
+}
+
+form{
+ font-family: 'Times New Roman', Times, serif;
+ /* width: 600px;
+ height:500px ; */
+ border:  2px ;
+ border-radius:30px;
+ box-shadow: 10px 10px 5px  #aaaaaa;
+}
+
+
+select{
+    height: 10px;
+    overflow-y:auto 
+}
+
+button{
+    background-color: darkcyan;
+    color:white;
+}
