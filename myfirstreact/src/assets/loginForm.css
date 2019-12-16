@@ -1,0 +1,31 @@
+.loginForm {
+    max-width: 500px;
+    padding: 10px;
+    border-radius: 30px;
+    box-shadow: 10px 10px 5px grey;
+}
+
+.form-control {
+    border-radius: 20px;
+    border: 2px solid skyblue;
+}
+
+input {
+    border: 2px solid skyblue;
+}
+
+h2 {
+    color: blue;
+    font-family: 'Times New Roman', Times, serif
+}
+
+span {
+    font-size: 28px;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif
+}
+
+.btn-primary {
+    border-radius: 25px;
+    width: 100%;
+}
